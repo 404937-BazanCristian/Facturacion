@@ -1,0 +1,11 @@
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.AssemblyReference.cache
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.FormPrincipal.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.cache
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.Vistas.FormRegistrarFacturas.resources
